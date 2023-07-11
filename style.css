@@ -1,0 +1,15 @@
+div p {
+    text-align: center;
+    color: blue;
+    border: 2px solid red;
+    text-decoration: underline;
+}
+body{
+    display: flex;
+    flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 4px;
+
+}
